@@ -2,7 +2,7 @@ db = {
 "Mie instan" : "4000", 
 "Minyak goreng /Liter" : "28.000",
 "Tepung terigu /Kg" : "17.000",
-"Sabun mandi batang" : "500",
+"Sabun mandi batang" : "5000",
 "Shampo Sachet" : "1.000",
 "Deterjen Sachet": "6.000",
 "Pasta Gigi" : "10.000",
